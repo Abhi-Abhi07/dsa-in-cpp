@@ -38,7 +38,7 @@ int main(){
 
 
 
-// //symbal table ka content -> cannot be change
+//symbal table ka content -> cannot be change
 int arr[10];
 //ERROR
 // arr=arr+1 //-> show error

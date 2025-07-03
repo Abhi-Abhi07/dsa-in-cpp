@@ -1,5 +1,5 @@
-#include<iostream>
-using namespace std;
+// #include<iostream>
+// using namespace std;
 
 // #define PI 3.14
 // int main(){
@@ -93,26 +93,26 @@ using namespace std;
 // using namespace std;
 
 // Multi-line Macro definition
-#define ELE 1, \
-			2, \
-			3
+// #define ELE 1, \
+// 			2, \
+// 			3
 
-// Driver Code
-int main()
-{
-	// Array arr[] with elements
-	// defined in macros
-	int arr[] = { ELE };
+// // Driver Code
+// int main()
+// {
+// 	// Array arr[] with elements
+// 	// defined in macros
+// 	int arr[] = { ELE };
 
-	// Print elements
-	printf("Elements of Array are:\n");
+// 	// Print elements
+// 	printf("Elements of Array are:\n");
 
-	for (int i = 0; i < 3; i++) {
-		cout << arr[i] << ' ';
-	}
+// 	for (int i = 0; i < 3; i++) {
+// 		cout << arr[i] << ' ';
+// 	}
 
-	return 0;
-}
+// 	return 0;
+// }
 
 
 

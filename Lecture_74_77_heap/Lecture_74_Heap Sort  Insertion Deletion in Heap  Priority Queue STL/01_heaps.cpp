@@ -101,13 +101,13 @@ class heap{
 
 int main(){
     heap h;
-    // h.insertMaxHeap(34);
-    // h.insertMaxHeap(10);
-    // h.insertMaxHeap(12);
-    // h.insertMaxHeap(25);
-    // h.insertMaxHeap(5);
-    // h.insertMaxHeap(33);
-    // h.insertMaxHeap(40);
+    h.insertMaxHeap(34);
+    h.insertMaxHeap(10);
+    h.insertMaxHeap(12);
+    h.insertMaxHeap(25);
+    h.insertMaxHeap(5);
+    h.insertMaxHeap(33);
+    h.insertMaxHeap(40);
     // h.deletionInMaxHeap();
     // h.deletionInMaxHeap();
     // h.deletionInMaxHeap();
@@ -118,13 +118,13 @@ int main(){
     // h.deletionInMaxHeap();
 
 
-    h.insertMinHeap(34);
-    h.insertMinHeap(10);
-    h.insertMinHeap(12);
-    h.insertMinHeap(25);
-    h.insertMinHeap(5);
-    h.insertMinHeap(33);
-    h.insertMinHeap(40);
+    // h.insertMinHeap(34);
+    // h.insertMinHeap(10);
+    // h.insertMinHeap(12);
+    // h.insertMinHeap(25);
+    // h.insertMinHeap(5);
+    // h.insertMinHeap(33);
+    // h.insertMinHeap(40);
     // h.deletionInMinHeap();
     // h.deletionInMinHeap();
     // h.deletionInMinHeap();

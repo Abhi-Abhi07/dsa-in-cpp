@@ -8,9 +8,9 @@ int main(){
 // int *ptr;//Bad prctice
 // cout<<"-->"<<*ptr<<endl;
 
-int *p=0;//NUll Pointer
+int *p=nullptr;//NUll Pointer
 cout<<"- "<<p<<endl;
-cout<<"- "<<*p<<endl;
+// cout<<"- "<<*p<<endl; //here we dereferencing a nullptr (*p), which leads to a runtime crash or segmentation fault.
 cout<<"- "<<p<<endl;
 cout<<"hi"<<endl;
 return 0;

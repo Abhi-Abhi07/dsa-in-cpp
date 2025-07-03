@@ -9,7 +9,7 @@ bool isPresent(int *arr, int n, int key){
     if(arr[0]==key){
         return 1;
     }
-    isPresent(arr+1,n-1,key);
+    return isPresent(arr+1,n-1,key);
     
 }
 

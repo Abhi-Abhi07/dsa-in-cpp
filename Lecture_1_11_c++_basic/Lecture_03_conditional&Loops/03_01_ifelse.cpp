@@ -19,7 +19,7 @@ else{
 
 
 /*
-//Find any letter of ASCII value
+// Find any letter of ASCII value
 int a;
 a=cin.get();
 cout<<"Value of a is : "<<a<<endl;
