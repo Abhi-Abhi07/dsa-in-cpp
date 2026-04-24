@@ -8,7 +8,7 @@ using namespace std;
 class Solution {
     int timer = 0;
 public:
-    vector<int> manacher_odd(string s) {
+    vector<int> run_manacher(string s) {
         int n = s.size();
         s = "$" + s + "^";
         vector<int> p(n + 2);
@@ -30,7 +30,7 @@ public:
         for(auto c: s) {
             t += string("#") + c;
         }
-        auto res = manacher_odd(t + "#");
+        auto res = run_manacher(t + "#");
         return vector<int>(begin(res) + 1, end(res) - 1);
     }
     void dfs(vector<int>adj[], int node, string &s, string &a, vector<int>&in, 
@@ -70,21 +70,8 @@ public:
         return ans;
     }
 };
-#include<set>
-int main() {
-    // Define the tree as an adjacency list
-    // set<pair<int,int>>s;
-    // s.insert({1,2});
-    // s.insert({2,2});
-    // s.insert({1,3});
-    // s.insert({2,4});
-    // s.insert({1,5});
-    // s.insert({3,2});
-    // s.insert({4,2});
 
-    // for(auto it=s.rbegin(); it!=s.rend(); it++){
-    //     cout<<it->first<<" "<<it->second<<endl;
-    // }
-    cout<<LLONG_MAX<<endl;
+int main() {
+
     return 0;
 }

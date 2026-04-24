@@ -40,12 +40,8 @@ class heap{
                 swap(arr[index],arr[rightIndex]);
                 index=rightIndex;
             }
-            else if(rightIndex<=size && arr[leftIndex]>arr[rightIndex] && arr[leftIndex]>arr[index]){
+            else if(arr[leftIndex]>arr[index]){
                 swap(arr[leftIndex],arr[index]);
-                index=leftIndex;
-            }
-            else if(leftIndex==size && arr[leftIndex]>arr[index]){
-                 swap(arr[leftIndex],arr[index]);
                 index=leftIndex;
             }
             else{

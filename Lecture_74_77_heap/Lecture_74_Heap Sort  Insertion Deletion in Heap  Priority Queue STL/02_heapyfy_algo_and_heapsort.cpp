@@ -73,9 +73,9 @@ int main(){
 
     // 0 based indexing
     // int arr[]={53,60,50,37,38,67,89,34,23,1,2,3,4,5};
-    int arr[]={1,2,3,4,5};
+    int arr[]={1,4,3,2,5,7,6};
 
-    int n=5;
+    int n=7;
     for(int i=n/2-1; i>=0; i--){
         heapyfy(arr,n,i);
     }

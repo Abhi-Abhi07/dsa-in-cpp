@@ -88,9 +88,9 @@ class Trie{
 
     void deleteWord(TrieNode *root,string word){
         if(word.length()==0){
-            cout<<"\n\n"<<root->data<<" "<<root->isTerminal<<endl;
+            // cout<<"\n\n"<<root->data<<" "<<root->isTerminal<<endl;
             root->isTerminal=false;
-            cout<<"\n\n"<<root->data<<" "<<root->isTerminal<<endl;
+            // cout<<"\n\n"<<root->data<<" "<<root->isTerminal<<endl;
             return;
         }
         int index=word[0];
@@ -98,24 +98,24 @@ class Trie{
         child=root->children[index];
         deleteWord(child,word.substr(1));
         bool isPresent=false;
-        cout<<"**"<<child->data<<endl;
-        cout<<"&&"<<root->children[index]->data<<endl;
+        // cout<<"**"<<child->data<<endl;
+        // cout<<"&&"<<root->children[index]->data<<endl;
         // woord ke aage kuch present hai ya nhi
         for(int i=0; i<256; i++){
-            // if(!root->children[index] && root->children[index]->children[i]!=NULL){
-            //     int a;
-            //     cout<<"Enter kuch bhi ";
-            //     cin>>a;
-            //     cout<<root->children[index]->data<<endl;
+            // if(root->children[index]->children[i]!=NULL){
+            //     cout<<child->data<<" ";
             //     isPresent=true;
+            //     break;
             // }
-            if(root->children[index]->children[i]!=NULL){
+            if(child->children[i]!=NULL){
                 isPresent=true;
+                break;
             }
         }
+        cout<<endl;
         if(isPresent==false && !child->isTerminal){
-            delete(child);
             root->children[index]=NULL;
+            delete(child);
             // yha child or root->children[index] ek hi baat hai
         } 
     }
@@ -151,12 +151,14 @@ int main(){
     // t->searchWord("TIM");
     // t->searchWord("DOG");
     // t->searchWord("DO");
-    t->deletionWord("ARM");
+    t->deletionWord("DO");
+    t->deletionWord("ARMER");
     cout<<"\nAfter Deletion !\n";
      t->searchWord("ARMER");
     t->searchWord("DO");
     t->searchWord("DOM");
     t->searchWord("DOKER");
+    t->searchWord("ARM");
     cout<<endl<<"Complete\n"<<endl;
     t->verifyForCompleteDeletion();
 return 0;
