@@ -1,5 +1,5 @@
 /*
-Problem link - https://leetcode.com/problems/maximum-alternating-sum-of-squares/description/
+Problem link - https://leetcode.com/problems/maximum-alternating-sum-of-squares/
 */
 
 class Solution {

@@ -1,0 +1,12 @@
+# LeetCode POTD (Problem of the Day) 🎯
+
+This folder contains my solutions for the daily LeetCode challenges. All solutions are written in C++.
+
+> 💡 **Note:** If you want to see the detailed intuition, approach, time, and space complexity for any of these problems, please click on the **Solution Link** provided in the table below!
+
+## 🗓️ 2026 Solutions
+
+| Date | Problem Name | Code | Solution Link |
+| :--- | :--- | :--- | :--- |
+| Oct 13 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | [C++](./maximum-alternating-sum-of-squares.cpp) | [View on LeetCode](https://leetcode.com/problems/maximum-alternating-sum-of-squares/solutions/8569706/greedy-two-pointer-approach-in-c-o1-spac-65it/) |
+| Oct 14 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | [C++](./maximize-sum-of-squares-of-digits.cpp) | [View on LeetCode](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/solutions/8571497/simple-greedy-solution-in-c-onum-by-abhi-c5rj/) |
