@@ -8,6 +8,7 @@ This folder contains my solutions for the daily LeetCode challenges. All solutio
 
 | Date | Problem Name | Code | Solution Link |
 | :--- | :--- | :--- | :--- |
+| Oct 26 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [C++](./count-islands-with-total-value-divisible-by-k.cpp) | [View on LeetCode](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/solutions/8590597/c-depth-first-search-step-by-step-approa-c937/) |
 | Oct 25 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [C++](./number-of-closed-islands.cpp) | [View on LeetCode](https://leetcode.com/problems/number-of-closed-islands/solutions/8590587/c-dfs-flood-fill-beats-100-simple-clean-v1qjt/) |
 | Oct 24 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | [C++](./count-days-spent-together.cpp) | [View on LeetCode](https://leetcode.com/problems/count-days-spent-together/solutions/8585929/c-optimal-solution-day-of-year-conversio-jbpi/) |
 | Oct 23 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | [C++](./maximum-k-to-sort-a-permutation.cpp) | [View on LeetCode](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/solutions/8584507/only-5-lines-simple-c-bitwise-logic-on-o-r2v0/) |
