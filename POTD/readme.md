@@ -8,6 +8,7 @@ This folder contains my solutions for the daily LeetCode challenges. All solutio
 
 | Date | Problem Name | Code | Solution Link |
 | :--- | :--- | :--- | :--- |
+| Nov 03 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [C++](./minimum-moves-to-equal-array-elements-iii.cpp) | [View on LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/solutions/8602767/c-0ms-beats-100-on-time-o1-space-simple-s76k8/) |
 | Nov 02 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [C++](./minimum-moves-to-equal-array-elements-ii.cpp) | [View on LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/solutions/8602758/c-0ms-beats-100-two-pointers-math-on-log-2b1y/) |
 | Nov 01 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [C++](./minimum-moves-to-equal-array-elements.cpp) | [View on LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/solutions/8602746/c-on-time-o1-space-simple-math-reverse-t-t6ik/) |
 | Oct 31 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | [C++](./twisted-mirror-path-count.cpp) | [View on LeetCode](https://leetcode.com/problems/twisted-mirror-path-count/solutions/8602728/c-3d-dp-direction-tracking-easy-to-under-voml/) |
