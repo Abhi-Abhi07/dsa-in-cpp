@@ -8,6 +8,7 @@ This folder contains my solutions for the daily LeetCode challenges. All solutio
 
 | Date | Problem Name | Code | Solution Link |
 | :--- | :--- | :--- | :--- |
+| Nov 02 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [C++](./minimum-moves-to-equal-array-elements-ii.cpp) | [View on LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/solutions/8602758/c-0ms-beats-100-two-pointers-math-on-log-2b1y/) |
 | Nov 01 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [C++](./minimum-moves-to-equal-array-elements.cpp) | [View on LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/solutions/8602746/c-on-time-o1-space-simple-math-reverse-t-t6ik/) |
 | Oct 31 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | [C++](./twisted-mirror-path-count.cpp) | [View on LeetCode](https://leetcode.com/problems/twisted-mirror-path-count/solutions/8602728/c-3d-dp-direction-tracking-easy-to-under-voml/) |
 | Oct 30 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | [C++](./shortest-path-with-at-most-k-consecutive-identical-characters.cpp) | [View on LeetCode](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/solutions/8602711/c-modified-dijkstra-state-tracking-oe-lo-ybto/) |
