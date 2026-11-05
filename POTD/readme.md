@@ -8,6 +8,7 @@ This folder contains my solutions for the daily LeetCode challenges. All solutio
 
 | Date | Problem Name | Code | Solution Link |
 | :--- | :--- | :--- | :--- |
+| Oct 30 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | [C++](./shortest-path-with-at-most-k-consecutive-identical-characters.cpp) | [View on LeetCode](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/solutions/8602711/c-modified-dijkstra-state-tracking-oe-lo-ybto/) |
 | Oct 29 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [C++](./palindromic-path-queries-in-a-tree.cpp) | [View on LeetCode](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/solutions/8602637/optimal-c-solution-euler-tour-segment-tr-cv9s/) |
 | Oct 28 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | [C++](./minimum-xor-path-in-a-grid.cpp) | [View on LeetCode](https://leetcode.com/problems/minimum-xor-path-in-a-grid/solutions/8592010/c-simple-3d-dp-approach-clean-intuitive-6hk1g/) |
 | Oct 27 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | [C++](./create-grid-with-exactly-one-path.cpp) | [View on LeetCode](https://leetcode.com/problems/create-grid-with-exactly-one-path/solutions/8590603/c-l-shape-path-simple-clean-by-abhi572-pxhz/) |
