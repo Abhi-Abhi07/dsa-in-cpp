@@ -8,6 +8,7 @@ This folder contains my solutions for the daily LeetCode challenges. All solutio
 
 | Date | Problem Name | Code | Solution Link |
 | :--- | :--- | :--- | :--- |
+| Nov 06 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | [C++](./count-zero-request-servers.cpp) | [View on LeetCode](https://leetcode.com/problems/count-zero-request-servers/solutions/8613166/c-sliding-window-sorting-tc-ol-log-l-q-l-rb3c/) |
 | Nov 05 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [C++](./find-the-distance-value-between-two-arrays.cpp) | [View on LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/solutions/8602781/c-0ms-beats-100-onm-time-o1-space-early-hs10w/) |
 | Nov 04 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | [C++](./minimum-operations-to-make-elements-within-k-subarrays-equal.cpp) | [View on LeetCode](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/solutions/8602773/c-sliding-window-median-dp-2-multiset-ap-42mr/) |
 | Nov 03 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [C++](./minimum-moves-to-equal-array-elements-iii.cpp) | [View on LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/solutions/8602767/c-0ms-beats-100-on-time-o1-space-simple-s76k8/) |
