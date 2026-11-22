@@ -8,6 +8,7 @@ This folder contains my solutions for the daily LeetCode challenges. All solutio
 
 | Date | Problem Name | Code | Solution Link |
 | :--- | :--- | :--- | :--- |
+| Nov 08 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | [C++](./count-servers-that-communicate.cpp) | [View on LeetCode](https://leetcode.com/problems/count-servers-that-communicate/solutions/8621384/c-o1-space-clean-row-column-scan-easy-to-2lu7/) |
 | Nov 07 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | [C++](./process-tasks-using-servers.cpp) | [View on LeetCode](https://leetcode.com/problems/process-tasks-using-servers/solutions/8621182/c-two-min-heaps-priority-queues-clean-ea-2w8y/) |
 | Nov 06 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | [C++](./count-zero-request-servers.cpp) | [View on LeetCode](https://leetcode.com/problems/count-zero-request-servers/solutions/8613166/c-sliding-window-sorting-tc-ol-log-l-q-l-rb3c/) |
 | Nov 05 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [C++](./find-the-distance-value-between-two-arrays.cpp) | [View on LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/solutions/8602781/c-0ms-beats-100-onm-time-o1-space-early-hs10w/) |
