@@ -8,6 +8,7 @@ This folder contains my solutions for the daily LeetCode challenges. All solutio
 
 | Date | Problem Name | Code | Solution Link |
 | :--- | :--- | :--- | :--- |
+| Nov 11 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | [C++](./minimum-cost-to-acquire-required-items.cpp) | [View on LeetCode](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/solutions/8622449/just-3-cases-to-consider-greedy-math-o1-690hs/) |
 | Nov 10 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | [C++](./climbing-stairs-ii.cpp) | [View on LeetCode](https://leetcode.com/problems/climbing-stairs-ii/solutions/8622434/o1-space-dp-3-step-rolling-window-c-by-a-bknn/) |
 | Nov 09 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | [C++](./find-servers-that-handled-most-number-of-requests.cpp) | [View on LeetCode](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/solutions/8622311/c-min-heap-ordered-set-lower_bound-on-k-ecv6g/) |
 | Nov 08 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | [C++](./count-servers-that-communicate.cpp) | [View on LeetCode](https://leetcode.com/problems/count-servers-that-communicate/solutions/8621384/c-o1-space-clean-row-column-scan-easy-to-2lu7/) |
