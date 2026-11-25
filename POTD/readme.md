@@ -8,6 +8,7 @@ This folder contains my solutions for the daily LeetCode challenges. All solutio
 
 | Date | Problem Name | Code | Solution Link |
 | :--- | :--- | :--- | :--- |
+| Nov 13 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | [C++](./count-non-decreasing-subarrays-after-k-operations.cpp) | [View on LeetCode](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/solutions/8624221/on-optimal-solution-prefix-sum-ngr-slidi-6i8r/) |
 | Nov 12 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [C++](./longest-strictly-increasing-or-strictly-decreasing-subarray.cpp) | [View on LeetCode](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/solutions/8623471/single-pass-two-pointers-explained-on-ti-7ygi/) |
 | Nov 11 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | [C++](./minimum-cost-to-acquire-required-items.cpp) | [View on LeetCode](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/solutions/8622449/just-3-cases-to-consider-greedy-math-o1-690hs/) |
 | Nov 10 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | [C++](./climbing-stairs-ii.cpp) | [View on LeetCode](https://leetcode.com/problems/climbing-stairs-ii/solutions/8622434/o1-space-dp-3-step-rolling-window-c-by-a-bknn/) |
