@@ -8,6 +8,7 @@ This folder contains my solutions for the daily LeetCode challenges. All solutio
 
 | Date | Problem Name | Code | Solution Link |
 | :--- | :--- | :--- | :--- |
+| Nov 16 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [C++](./calculate-digit-sum-of-a-string.cpp) | [View on LeetCode](https://leetcode.com/problems/calculate-digit-sum-of-a-string/solutions/8624347/direct-string-simulation-on-time-space-c-0mby/) |
 | Nov 15 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [C++](./number-of-sub-arrays-with-odd-sum.cpp) | [View on LeetCode](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/solutions/8624326/prefix-sum-parity-counting-on-time-o1-sp-l7g7/) |
 | Nov 14 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/) | [C++](./minimum-positive-sum-subarray.cpp) | [View on LeetCode](https://leetcode.com/problems/minimum-positive-sum-subarray/solutions/8624298/fixed-size-sliding-window-for-each-lengt-kfh5/) |
 | Nov 13 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | [C++](./count-non-decreasing-subarrays-after-k-operations.cpp) | [View on LeetCode](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/solutions/8624221/on-optimal-solution-prefix-sum-ngr-slidi-6i8r/) |
