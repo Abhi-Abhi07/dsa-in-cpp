@@ -8,6 +8,7 @@ This folder contains my solutions for the daily LeetCode challenges. All solutio
 
 | Date | Problem Name | Code | Solution Link |
 | :--- | :--- | :--- | :--- |
+| Nov 15 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [C++](./number-of-sub-arrays-with-odd-sum.cpp) | [View on LeetCode](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/solutions/8624326/prefix-sum-parity-counting-on-time-o1-sp-l7g7/) |
 | Nov 14 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/) | [C++](./minimum-positive-sum-subarray.cpp) | [View on LeetCode](https://leetcode.com/problems/minimum-positive-sum-subarray/solutions/8624298/fixed-size-sliding-window-for-each-lengt-kfh5/) |
 | Nov 13 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | [C++](./count-non-decreasing-subarrays-after-k-operations.cpp) | [View on LeetCode](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/solutions/8624221/on-optimal-solution-prefix-sum-ngr-slidi-6i8r/) |
 | Nov 12 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [C++](./longest-strictly-increasing-or-strictly-decreasing-subarray.cpp) | [View on LeetCode](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/solutions/8623471/single-pass-two-pointers-explained-on-ti-7ygi/) |
