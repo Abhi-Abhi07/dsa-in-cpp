@@ -8,6 +8,7 @@ This folder contains my solutions for the daily LeetCode challenges. All solutio
 
 | Date | Problem Name | Code | Solution Link |
 | :--- | :--- | :--- | :--- |
+| Nov 18 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | [C++](./minimum-number-of-changes-to-make-binary-string-beautiful.cpp) | [View on LeetCode](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/solutions/8625460/break-into-disjoint-pairs-no-dp-needed-s-xej8/) |
 | Nov 17 | [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | [C++](./minimum-changes-to-make-k-semi-palindromes.cpp) | [View on LeetCode](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/solutions/8625147/memoized-substring-costs-partition-dp-c-2ia8a/) |
 | Nov 16 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [C++](./calculate-digit-sum-of-a-string.cpp) | [View on LeetCode](https://leetcode.com/problems/calculate-digit-sum-of-a-string/solutions/8624347/direct-string-simulation-on-time-space-c-0mby/) |
 | Nov 15 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [C++](./number-of-sub-arrays-with-odd-sum.cpp) | [View on LeetCode](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/solutions/8624326/prefix-sum-parity-counting-on-time-o1-sp-l7g7/) |
