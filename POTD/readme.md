@@ -8,6 +8,7 @@ This folder contains my solutions for the daily LeetCode challenges. All solutio
 
 | Date | Problem Name | Code | Solution Link |
 | :--- | :--- | :--- | :--- |
+| Nov 22 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | [C++](./check-if-all-as-appears-before-all-bs.cpp) | [View on LeetCode](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/solutions/8626268/single-pass-non-decreasing-check-on-time-xv7o/) |
 | Nov 26 | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | [C++](./find-subtree-sizes-after-changes.cpp) | [View on LeetCode](https://leetcode.com/problems/find-subtree-sizes-after-changes/solutions/8626264/track-closest-ancestor-per-character-reb-odyq/) |
 | Nov 20 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [C++](./maximize-consecutive-elements-in-an-array-after-modification.cpp) | [View on LeetCode](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/solutions/8625760/2-states-keep-or-1-binary-search-dp-on-l-jxax/) |
 | Nov 19 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [C++](./minimum-score-by-changing-two-elements.cpp) | [View on LeetCode](https://leetcode.com/problems/minimum-score-by-changing-two-elements/solutions/8625469/low-score-always-0-just-minimize-high-sc-vbfp/) |
