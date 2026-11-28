@@ -8,6 +8,7 @@ This folder contains my solutions for the daily LeetCode challenges. All solutio
 
 | Date | Problem Name | Code | Solution Link |
 | :--- | :--- | :--- | :--- |
+| Nov 26 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | [C++](./stone-removal-game.cpp) | [View on LeetCode](https://leetcode.com/problems/stone-removal-game/solutions/8627158/simple-turn-by-turn-simulation-o1-time-o-p6uu/) |
 | Nov 25 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | [C++](./smallest-unique-subarray.cpp) | [View on LeetCode](https://leetcode.com/problems/smallest-unique-subarray/solutions/8627156/monotonic-length-rolling-hash-frequency-5udoh/) |
 | Nov 24 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | [C++](./maximum-subarray-with-equal-products.cpp) | [View on LeetCode](https://leetcode.com/problems/maximum-subarray-with-equal-products/solutions/8626316/subarray-product-gcd-x-lcm-overflow-safe-eu0r/) |
 | Nov 23 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [C++](./product-of-the-last-k-numbers.cpp) | [View on LeetCode](https://leetcode.com/problems/product-of-the-last-k-numbers/solutions/8626312/prefix-product-last-zero-index-tracking-eo09w/) |
